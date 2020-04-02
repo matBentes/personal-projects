@@ -1,6 +1,6 @@
 # Inventory app
 
-This is a inspiration project: [https://github.com/CodingGarden/inventory-app](https://https://github.com/CodingGarden/inventory-app)
+This is a inspiration project: [https://github.com/CodingGarden/inventory-app](https://github.com/CodingGarden/inventory-app)
 
 Understanding about **Node**, **Knex**, **Docker**, **Postgres** and **Typescript**
 
