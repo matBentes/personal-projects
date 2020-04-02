@@ -1,0 +1,6 @@
+env
+node_modules 
+eslintignore
+vscode
+docker-compose.example
+db-volume

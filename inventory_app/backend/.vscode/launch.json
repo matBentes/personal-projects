@@ -1,0 +1,10 @@
+{
+  "type": "node",
+  "request": "attach",
+  "name": "Docker ts-node",
+  "address": "localhost",
+  "port": 8181,
+  "localRoot": "${workspaceFolder}",
+  "remoteRoot": "/usr/src/app",
+  "protocol": "inspector"
+}
